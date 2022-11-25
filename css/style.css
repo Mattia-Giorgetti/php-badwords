@@ -1,0 +1,31 @@
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(45deg, dodgerblue, purple);
+    color: #e3e3e3;
+}
+.titleSpan {
+    text-transform: uppercase;
+    color: orange;
+}
+button {
+    border: none;
+    padding: 0.5rem 1.5rem ;
+    background-color: orange;
+    color: black;
+    transition: 0.3s ease-in;
+}
+button:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+h4 {
+    font-size: 1rem;
+}
+.mypar {
+    color: orange;
+}
+textarea {
+    background-color: #515151;
+    color: white;
+}
